@@ -1,5 +1,6 @@
 # aapanel_6.8.27
 aapanel_6.8.27 降级
+
 安装官方aaPanel v6.8.37
 ```
 wget -O install.sh https://raw.githubusercontent.com/789cn/aapanel_6.8.27/refs/heads/main/install_aapanel.sh && sudo bash install.sh aapanel
