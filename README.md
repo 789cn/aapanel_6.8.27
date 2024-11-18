@@ -23,3 +23,7 @@ wget -O /root/update6_en.sh https://download.bt.cn/install/update6_en.sh && sed 
 ```
 wget -O aapanel_chinese.zip https://github.com/gacjie/aapanel_chinese/releases/download/6.8.27/aapanel_simplified_chinese_6827.zip && unzip -o aapanel_chinese.zip -d /www/server/ && /etc/init.d/bt restart
 ```
+我的备份
+```
+wget -O aapanel_chinese.zip https://github.com/789cn/aapanel_6.8.27/releases/download/6.8.27/aapanel_simplified_chinese_6827.zip && unzip -o aapanel_chinese.zip -d /www/server/ && /etc/init.d/bt restart
+```
