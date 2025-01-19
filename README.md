@@ -10,6 +10,9 @@ wget -O install.sh https://raw.githubusercontent.com/789cn/aapanel_6.8.27/refs/h
 wget -O install.sh https://github.com/aaPanel/aaPanel/releases/download/6.8.37/install_aapanel.sh && sudo bash install.sh aapanel
 ```
 
+aapanel_v6.8.37 最后的V6版本,不建议降级
+以下备用!
+-------------------------- ------
 降级为 aapanel6.8.27 版本
 
 ```
